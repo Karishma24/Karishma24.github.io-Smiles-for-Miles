@@ -1,0 +1,6 @@
+    S.NO   SEATS             RATE
+
+    (1)   BALCONY           RS.550
+    (2)   GOLD              RS.330
+    (3)   SILVER            RS.225
+    (4)   PREMIERE          RS.110

@@ -1,0 +1,6 @@
+    S.NO     CLASS             RATE
+
+    (1)   AC FIRST CLASS     RS.5299
+    (2)   FIRST CALSS        RS.3299
+    (3)   AC CHAIR CAR       RS.2299
+    (4)   SLEEPER            RS.1299

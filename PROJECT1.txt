@@ -1,0 +1,14 @@
+  S.NO             MOVIE             LANGUAGE    DURATION     RATING    GENRE  
+--------------------------------------------------------------------------------
+   1.    SUI DHAAGA-MADE IN INDIA     HINDI      2hr 2m        ***      DRAMA
+
+   2.     AVENGERS- INFINITY WAR     ENGLISH     2hr 40m      *****     ACTION
+
+   3.              STREE              HINDI      2hr 10m      ****      HORROR
+ 
+   4.              VENOM             ENGLISH     2hr 20m       ***     THRILLER
+
+   5.             THE NUN            ENGLISH     1hr 36m      ****      HORROR
+
+   6.      BATTI GUL METER CHALU      HINDI      2hr 46m       ***      COMEDY
+--------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+    S.NO   AIRLINE           RATE
+
+    (1)   SPICEJET         RS.5299
+    (2)   INDIGO           RS.3299
+    (3)   AIR INDIA        RS.2299
+    (4)   GO AIR           RS.1299

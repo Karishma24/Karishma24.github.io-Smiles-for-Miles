@@ -1,0 +1,4 @@
+    SHOW TIMINGS
+
+   (1) 9:30 AM TO 12:30 PM      (2) 1:30 PM TO 4:30 PM
+   (3) 6:00 PM TO 9:00 PM       (4) 10:00 PM TO 1:00 AM
